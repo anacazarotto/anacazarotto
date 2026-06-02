@@ -30,7 +30,7 @@
 
 ---
 
-## 💜 About Me
+## About Me
 
 ```elixir
 defmodule AnaCarla do
