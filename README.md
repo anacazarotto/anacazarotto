@@ -30,7 +30,7 @@
 
 ---
 
-## 💜 About Me
+## About Me
 
 ```elixir
 defmodule AnaCarla do
@@ -50,28 +50,28 @@ end
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### ⚡ Languages
+### Languages
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=E0AAFF)
 ![Erlang](https://img.shields.io/badge/Erlang-7B2FBE?style=for-the-badge&logo=erlang&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5A189A?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-9D4EDD?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🎨 Frontend
+### Frontend
 ![React](https://img.shields.io/badge/React-3C096C?style=for-the-badge&logo=react&logoColor=E0AAFF)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7B2FBE?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### ⚙️ Backend & Frameworks
+### Backend & Frameworks
 ![Phoenix](https://img.shields.io/badge/Phoenix-FF6D00?style=for-the-badge&logo=phoenixframework&logoColor=white)
 ![Zotonic](https://img.shields.io/badge/Zotonic-9D4EDD?style=for-the-badge&logoColor=white)
 
-### 🗄️ Database
+### Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-5A189A?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🔧 Tools
+### Tools
 ![Git](https://img.shields.io/badge/Git-7B2FBE?style=for-the-badge&logo=git&logoColor=white)
 ![Kanban](https://img.shields.io/badge/Kanban-9D4EDD?style=for-the-badge&logoColor=white)
 ![TDD](https://img.shields.io/badge/TDD-4B275F?style=for-the-badge&logoColor=white)
@@ -82,7 +82,7 @@ end
 
 ---
 
-## 📊 Most Used Languages
+## Most Used Languages
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacazarotto&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d0015&title_color=c77dff&text_color=e0aaff" />
