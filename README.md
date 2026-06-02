@@ -36,11 +36,11 @@
 defmodule AnaCarla do
   def intro do
     %{
-      location:  "Chapecó, SC 🇧🇷",
+      location:  "Chapecó, SC",
       role:      "Fullstack Developer",
       focus:     ["Elixir", "Phoenix", "Erlang", "React", "TypeScript", "PostgreSQL"],
       currently: "Building functional & modern systems",
-      always:    "learning something new 📚"
+      always:    "learning something new"
     }
   end
 end
