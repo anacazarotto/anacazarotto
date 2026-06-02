@@ -7,7 +7,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1200&color=C77DFF&center=true&vCenter=true&width=600&lines=Elixir+%7C+Phoenix+%7C+Erlang;React+%7C+TypeScript+%7C+PostgreSQL;Building+functional+%26+modern+systems+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1200&color=C77DFF&center=true&vCenter=true&width=600&lines=Elixir+%7C+Phoenix+%7C+Erlang;React+%7C+TypeScript+%7C+PostgreSQL;Building+functional+%26+modern+systems" alt="Typing SVG" />
 </div>
 
 <br/>
