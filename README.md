@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Ana%20Carla%20Cazarotto&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=65&desc=Fullstack%20Developer&descAlignY=82&descSize=18&descColor=e0aaff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3c096c,50:7b2fbe,100:9d4edd&height=200&section=header&text=Ana%20Carla%20Cazarotto&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=65&desc=Fullstack%20Developer&descAlignY=82&descSize=18&descColor=e0aaff" />
 
 </div>
 
@@ -30,7 +30,7 @@
 
 ---
 
-## About Me
+## 💜 About Me
 
 ```elixir
 defmodule AnaCarla do
@@ -80,4 +80,10 @@ end
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=anacazarotto&color=9d4edd&style=for-the-badge&label=VISITORS" />
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9d4edd,50:7b2fbe,100:3c096c&height=100&section=footer" />
