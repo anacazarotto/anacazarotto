@@ -65,7 +65,7 @@ end
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7B2FBE?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Backend & Frameworks
-![Phoenix](https://img.shields.io/badge/Phoenix-FF6D00?style=for-the-badge&logo=phoenixframework&logoColor=white)
+![Phoenix](https://img.shields.io/badge/Phoenix-7B2FBE?style=for-the-badge&logo=phoenixframework&logoColor=E0AAFF)
 ![Zotonic](https://img.shields.io/badge/Zotonic-9D4EDD?style=for-the-badge&logoColor=white)
 
 ### Database
@@ -76,24 +76,6 @@ end
 ![Kanban](https://img.shields.io/badge/Kanban-9D4EDD?style=for-the-badge&logoColor=white)
 ![TDD](https://img.shields.io/badge/TDD-4B275F?style=for-the-badge&logoColor=white)
 
-</div>
-
-<br/>
-
----
-
-## Most Used Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacazarotto&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d0015&title_color=c77dff&text_color=e0aaff" />
-</div>
-
-<br/>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=anacazarotto&color=9d4edd&style=for-the-badge&label=VISITORS" />
 </div>
 
 <br/>
