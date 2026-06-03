@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3c096c,50:7b2fbe,100:9d4edd&height=200&section=header&text=Ana%20Carla%20Cazarotto&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=45&desc=Fullstack%20Developer&descAlignY=62&descSize=18&descColor=e0aaff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3c096c,50:7b2fbe,100:9d4edd&height=200&section=header&text=Ana%20Carla%20Cazarotto&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=45&desc=Fullstack%20Developer&descAlignY=62&descSize=24&descColor=e0aaff" />
 
 </div>
 
@@ -76,12 +76,6 @@ end
 ![Kanban](https://img.shields.io/badge/Kanban-9D4EDD?style=for-the-badge&logoColor=white)
 ![TDD](https://img.shields.io/badge/TDD-4B275F?style=for-the-badge&logoColor=white)
 
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=anacazarotto&color=9d4edd&style=for-the-badge&label=VISITORS" />
 </div>
 
 <br/>
