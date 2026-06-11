@@ -14,15 +14,15 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ana-cl-cazarotto">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
   &nbsp;
   <a href="mailto:anaccazarotto@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-282A36?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
   &nbsp;
   <a href="https://github.com/anacazarotto">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-282A36?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
